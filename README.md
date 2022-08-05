@@ -1,6 +1,6 @@
 <h2>Eye Ball</h2>
 <p>This is an Eye Ball Animation in which i use html ,css and Javascript. </p>
-<h5>SEO</h5>
+
 
 <h2>Features:-</h2>
     <h5>Animation</h5>
